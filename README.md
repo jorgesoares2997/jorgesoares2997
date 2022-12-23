@@ -1,5 +1,4 @@
-# E aí ! sou Jorge
-
+# E aí ! sou Jorge, musico em transição de carreira.
 <div>
   
   <a href="https://github.com/Jorgesoares2997">
