@@ -1,4 +1,4 @@
-# E aí ! sou Jorge Soares
+# E aí ! sou Jorge
 
 formado em musica (CPM/UFPE)
 trabalho como tecnico de som (IBP)
