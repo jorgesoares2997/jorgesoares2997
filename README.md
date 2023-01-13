@@ -16,7 +16,7 @@
 <img align="right" alt="jorge-gif" src="https://media.discordapp.net/attachments/1055842690794795011/1055844973725089862/gifgitgif.gif?width=120&height=120">
 </div>
  
- ##
+ 
  <div>
 <a href="https://youtube.com/@jorgesoares2216"target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style-for-thebadge&logo-youtube&logoColor-white"target="_blank"></a>
 <a href="https://www.instagram.com/baixodejorge/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4425F?style-for-the-badgellogo-Instagram&logoColor-White" target="_blank"></a>
