@@ -1,5 +1,11 @@
 # E aí! Sou Jorge, músico em transição de carreira.
 <div>
+<a href="https://github.com/jorgesoares2997/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgesoares2997&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/jorgesoares2997/jorgesoares2997">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgesoares2997&repo=jorgesoares2997" />
+</a>
 
   <div style="display: inline_block"><br>
                                     
