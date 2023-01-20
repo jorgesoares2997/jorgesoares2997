@@ -1,10 +1,28 @@
 # E aí! Sou Jorge, músico em transição de carreira.
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=jorgesoares2997&show_icons=true&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgesoares2997&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/jorgesoares2997/jorgesoares2997">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgesoares2997&repo=jorgesoares2997" />
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=jorgesoares2997&show_icons=true&theme=#highcontrast"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=jorgesoares2997&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=jorgesoares2997&show_icons=true" />
+</picture>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgesoares2997&langs_count=3"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=jorgesoares2997&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=jorgesoares2997&show_icons=true" />
+</picture>
+
 </a>
 
   <div style="display: inline_block"><br>
