@@ -27,15 +27,18 @@
 
   <div style="display: inline_block"><br>
                                     
-  <a href='https://jorgesoares2997.github.io/portfolio/'><img align="center" alt="jorge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <a href='https://jorgesoares2997.github.io/portfolio/'><img align="center" alt="jorge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <a href='https://jorgesoares2997.github.io/portfolio/'><img align="center" alt="jorge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a href='https://jorgesoares2997.github.io/portfolio/'><img align="center" alt="jorge-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <a href='https://jorgesoares2997.github.io/portfolio/'><img align='center' alt='jorge-React' height='30' width='40' 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />           
-      <a href='https://jorgesoares2997.github.io/portfolio/'><img align="center" alt="jorge-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <a href='https://jorgesoares2997.github.io/portfolio/'><img align="center" alt="jorge-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <a href='https://jorgesoares2997.github.io/portfolio/'><img align="center" alt="jorge-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <a href='https://jorgesoares2997.github.io/portfolio/'><img align="left" alt="jorge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <a href='https://jorgesoares2997.github.io/portfolio/'><img align="left" alt="jorge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <a href='https://jorgesoares2997.github.io/portfolio/'><img align="left" alt="jorge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href='https://jorgesoares2997.github.io/portfolio/'><img align="left" alt="jorge-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <a href='https://jorgesoares2997.github.io/portfolio/'><img align='left' alt='jorge-vue' height='30' width='40' 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />     
+    <a href='https://jorgesoares2997.github.io/portfolio/'><img align='left' alt='jorge-React' height='30' width='40' 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />           
+      <a href='https://jorgesoares2997.github.io/portfolio/'><img align="left" alt="jorge-php" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />          
+  <a href='https://jorgesoares2997.github.io/portfolio/'><img align="left" alt="jorge-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <a href='https://jorgesoares2997.github.io/portfolio/'><img align="left" alt="jorge-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <a href='https://jorgesoares2997.github.io/portfolio/'><img align="right" alt="jorge-gif" src="https://media.discordapp.net/attachments/1055842690794795011/1055844973725089862/gifgitgif.gif?width=120&height=120">
 </div>
  
