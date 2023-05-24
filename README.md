@@ -1,4 +1,4 @@
-# E aí! Sou Jorge, músico em transição de carreira.
+# E aí! Sou Jorge, Programador PHP fullstack.
 <div>
 <picture>
 <source 
