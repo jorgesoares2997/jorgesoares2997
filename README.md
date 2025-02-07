@@ -1,4 +1,4 @@
-# E aí! Sou Jorge, Programador PHP Fullstack.
+# E aí! Sou Jorge.
 <div>
 <picture>
 <source 
