@@ -1,13 +1,12 @@
 # Hello, I'm Jorge! 👋
 
-Full-Stack Developer | Java (Spring) | React + TypeScript | Web2 & Web3
+Full-Stack Developer | Java (Spring) | React + TypeScript 
 
 ---
 
 ## About Me
 - Passionate about code, coffee, and building products with great UX.
 - I develop **end-to-end solutions**: robust backends with **Java/Spring** and modern frontends with **React** (and **Next.js**).
-- Speaker on **Blockchain & Tokenization**, focusing on practical applications and market-ready solutions.
 - Current goal: deepen expertise to serve the **global market** across **Web2 and Web3**.
 
 ---
