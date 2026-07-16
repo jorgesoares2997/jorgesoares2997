@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Jorge%20Soares&fontSize=42&fontColor=ffffff&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Jorge%20Soares&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=62&animation=fadeIn" />
 
 <a href="https://linkedin.com/in/jorgesoar">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+Python;Construindo+dApps+em+Stellar%2FSoroban;Buscando+novas+oportunidades" />
@@ -23,8 +23,17 @@ Atualmente, estou em busca de novas oportunidades como **Full Stack Developer**.
 ## Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,py,nodejs,postgres,mongodb,docker,rust,git" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,py,nodejs,nestjs,next,postgres,mongodb,docker,rust,git,prisma,tailwind" />
 </div>
+
+<div align="center">
+
+![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-%234D4D4D.svg?style=for-the-badge&logo=keycloak&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black.svg?style=for-the-badge&logo=JSON%20web%20tokens)
+![OAuth2](https://img.shields.io/badge/OAuth2-4285F4.svg?style=for-the-badge&logo=auth0&logoColor=white)
+
+
 
 ---
 
@@ -52,7 +61,7 @@ Aplicação para organização e acompanhamento de eventos e compromissos musica
 
 ## Atualmente
 
-- 📚 Estudando Análise e Desenvolvimento de Sistemas
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🛠️ Desenvolvendo projetos Web3 na rede Stellar
 - 💼 Buscando oportunidades como **Full Stack Developer**
 
@@ -61,29 +70,8 @@ Aplicação para organização e acompanhamento de eventos e compromissos musica
 ## Estatísticas do GitHub
 
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jorgesoares2997&show_icons=true&theme=highcontrast"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jorgesoares2997&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=jorgesoares2997&show_icons=true" />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgesoares2997&langs_count=6&theme=highcontrast"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgesoares2997&langs_count=6"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgesoares2997&langs_count=6" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgesoares2997&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgesoares2997&layout=compact&theme=radical&hide_border=true" width="30%" />
 </div>
 
 ---
