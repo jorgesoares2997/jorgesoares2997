@@ -72,7 +72,8 @@ Aplicação para organização e acompanhamento de eventos e compromissos musica
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jorgesoares2997&show_icons=true&theme=radical&hide_border=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgesoares2997&layout=compact&theme=radical&hide_border=true" width="30%" />
-</div>
+</div>](https://github-stats-extended.vercel.app/api?username=jorgesoares2997&show_icons=true&theme=radical&hide_border=true
+https://github-stats-extended.vercel.app/api/top-langs/?username=jorgesoares2997&layout=compact&theme=radical&hide_border=true)
 
 ---
 
