@@ -5,16 +5,16 @@
 </div>
 
 <a href="https://linkedin.com/in/jorgesoar">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+Python;Construindo+dApps+em+Stellar%2FSoroban;Buscando+novas+oportunidades" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+Spring+%7C+React+%7C+TypeScript;Tamb%C3%A9m+explorando+Web3+(Stellar%2FSoroban);Buscando+novas+oportunidades" />
 </a>
 
 ---
 
 ## Sobre mim
 
-Sou **Jorge Soares**, Full Stack Developer com foco em **React, TypeScript, Python e React Native**, atuando no desenvolvimento de aplicações web e mobile de ponta a ponta — do backend em Python/REST APIs ao frontend em React.
+Sou **Jorge Soares**, Full Stack Developer com foco em **Java e no ecossistema Spring** (Spring Boot, Spring Security), aliado a **React, TypeScript, Next.js e Python**, atuando no desenvolvimento de aplicações web e mobile de ponta a ponta.
 
-Também desenvolvo projetos **Web3**, explorando contratos inteligentes em **Rust/Soroban** na rede **Stellar**.
+Também exploro **Web3**, desenvolvendo contratos inteligentes em **Rust/Soroban** na rede **Stellar**.
 
 Atualmente, estou em busca de novas oportunidades como **Full Stack Developer**.
 
@@ -22,12 +22,18 @@ Atualmente, estou em busca de novas oportunidades como **Full Stack Developer**.
 
 ## Tecnologias
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,py,nodejs,nestjs,next,postgres,mongodb,docker,rust,git,prisma,tailwind" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,py,nodejs,nestjs,next,postgres,mongodb,docker,rust,git,prisma,tailwind" />
 
 ![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-%234D4D4D.svg?style=for-the-badge&logo=keycloak&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black.svg?style=for-the-badge&logo=JSON%20web%20tokens)
-![OAuth2](https://img.shields.io/badge/OAuth2-4285F4.svg?style=for-the-badge&logo=auth0&logoColor=white)---
+![OAuth2](https://img.shields.io/badge/OAuth2-4285F4.svg?style=for-the-badge&logo=auth0&logoColor=white)
+
+</div>
+
+---
 
 ## Projetos em destaque
 
