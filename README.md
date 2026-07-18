@@ -78,7 +78,9 @@ Aplicação para organização e acompanhamento de eventos e compromissos musica
 - 🌐 **Portfólio:** [portfolio-jorge-soares.vercel.app](https://portfolio-jorge-soares.vercel.app/)
 - 📧 **E-mail:** jorgesoares2997@gmail.com
 
-<img src="https://github.com/jorgesoares2997/jorgesoares2997/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github.com/jorgesoares2997/jorgesoares2997/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" />
